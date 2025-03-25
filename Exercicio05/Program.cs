@@ -15,7 +15,7 @@
             Console.WriteLine("Digite o salário base do funcionário: ");
             double salarioBase = Convert.ToDouble(Console.ReadLine());
 
-            Console.WriteLine("Digite o total de vendas realizado pelo funcionário (Em R$): ");
+            Console.WriteLine("Digite o valor total de vendas realizado pelo funcionário (Em R$): ");
             double totalVendas = Convert.ToDouble(Console.ReadLine()); ;
 
             Console.WriteLine("Digite a porcentagem de comissão sobre as vendas (apenas números): ");
